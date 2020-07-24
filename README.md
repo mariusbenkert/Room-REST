@@ -1,7 +1,7 @@
 # Room-REST
 
 ## Introduction
-This project was part of a programming exam over a period of three months. The goal was to build a working RESTful API for a given theme. Our task was to build one for a basic room
+This project was part of a programming exam over a period of three months. The goal was to build a working RESTful API with working authentication against the school api for a given theme. Our task was to build one for a basic room
 administration including making/deleting/changing reservations for said rooms.
 
 ## Compatibility
