@@ -9,7 +9,7 @@
     <description>Template for PVS20 Practical Examination</description>
 
     <properties>
-        <tomcat.version>9.0.37</tomcat.version>
+        <tomcat.version>9.0.41</tomcat.version>
         <jersey.version>2.31</jersey.version>
     </properties>
 
